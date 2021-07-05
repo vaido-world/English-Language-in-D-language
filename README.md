@@ -72,6 +72,10 @@ void main()
     writeln("Notice: If it is a single word sentence, space symbol is not required and is optional.");
     writeln("  Example of a word: ", "Human.");
     
+
+    writeln("English grammar punctuation symbols or marks are 14");
+    writeln("sorted by importance and types");
+
     
     writeln;
     writeln("Hello D");
