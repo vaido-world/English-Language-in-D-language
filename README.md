@@ -5,6 +5,9 @@ https://run.dlang.io/
 ## Preliminary words
 https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.cambridgeenglish.org/images/84669-pet-vocabulary-list.pdf&ved=2ahUKEwjylJa4kMzxAhUBmIsKHU1PAuwQFjAAegQIBBAC&usg=AOvVaw2r3gBsktIQFu5Spa33zsgE
 
+https://www.google.com/search?q=download+english+language+vocabularly&oq=download+english+language+vocabularly&aqs=chrome..69i57.12872j0j7&client=ms-android-google&sourceid=chrome-mobile&ie=UTF-8#sbfbu=1&pi=download%20english%20language%20vocabularly
+
+
 ```
 import std;
 void main()
