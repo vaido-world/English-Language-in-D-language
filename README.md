@@ -1,6 +1,10 @@
 # English-Language-in-D-language
 A journey around English language using D language to explain and show things.
 https://run.dlang.io/
+
+## Preliminary words
+https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.cambridgeenglish.org/images/84669-pet-vocabulary-list.pdf&ved=2ahUKEwjylJa4kMzxAhUBmIsKHU1PAuwQFjAAegQIBBAC&usg=AOvVaw2r3gBsktIQFu5Spa33zsgE
+
 ```
 import std;
 void main()
