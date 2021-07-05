@@ -49,7 +49,17 @@ void main()
     writeln("A word is a junction of letters seperated by a space symbol.");
     writeln("  Example of a word: Book", " The word Book is part of English language vocabulary.");
         //Contains letters, but no spaces or dots.
-    string wordExample = "Book";
+    string wordExample = "Book.";
+    if (wordExample.endsWith(".")) {
+    	write("Word contains a full stop at the end of character sequence. Is not a word, but a sentence.");
+    }
+    foreach (letter; wordExample){
+        if (letter.findAmong(alphabet)){ 
+            write("found");
+        }
+    	write(letter);
+    }
+    if (wordExample){ /*write(wordExample); */ write(" is a word.");}
 
     
     writeln(newline, "Vocabulary is an interface to human language.");
