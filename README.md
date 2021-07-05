@@ -11,6 +11,7 @@ https://www.google.com/search?q=download+english+language+vocabularly&oq=downloa
 http://www.universalteacher.org.uk/lang/engstruct.htm
 https://www.google.com/search?q=morpheme+examples&client=ms-android-google&sxsrf=ALeKk01c1P7zj1X_5MWdoDc2FSL5lERIBw%3A1625498414855&ei=LiPjYITnM9GFrwTkl7LAAQ&oq=morpheme+&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIFCAAQkQIyBQgAEJECMgUIABCRAjICCAAyAggAMgIIADICCAAyAggAOgQIABBHOgQIIxAnOgQIABBDUPpxWIZ1YK19aABwAXgAgAHWAYgBvQKSAQUwLjEuMZgBAKABAcgBCMABAQ&sclient=mobile-gws-wiz-serp
 
+## English language protocol
 ## Specification of English language in D language
 ## Representation of English language in D language
 
