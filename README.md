@@ -16,7 +16,7 @@ void main()
 {
     writeln("String is a string of a characters literals.");
     writeln("String is also known as a word in English language.");
-    
+    writeln("Vocabulary is a dynamic array of strings.");
     alias dictionary = vocabulary;
     string[] vocabulary;
     writeln(newline, "A static array variable is being initialized.");
