@@ -76,6 +76,7 @@ void main()
     writeln("English grammar punctuation symbols or marks are 14");
     writeln("sorted by importance and types");
 
+    writeln("Example of a basic english sentence");
     
     writeln;
     writeln("Hello D");
