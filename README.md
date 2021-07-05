@@ -95,7 +95,11 @@ Open file "./" and write "yes" in it. (literals are quoted)
 Open file "" with default application
 Open file "" 
 Write file "" into other file
+Open file in binary mode
+Open file in adcii text mode
+Open file in utf text mode
 Copy file file_destination
+
 
 ## Propiertary dictionary that is kind of great
 https://www.oxfordreference.com/view/10.1093/acref/9780199658237.001.0001/acref-9780199658237-e-959
