@@ -54,7 +54,7 @@ void main()
     	write("Word contains a full stop at the end of character sequence. Is not a word, but a sentence.");
     }
     foreach (letter; wordExample){
-        if (letter.findAmong(alphabet)){ 
+        if (alphabet.findAmong([letter])){ 
             write("found");
         }
     	write(letter);
