@@ -48,6 +48,9 @@ void main()
     writeln;
     writeln("A word is a junction of letters seperated by a space symbol.");
     writeln("  Example of a word: Book", " The word Book is part of English language vocabulary.");
+        //Contains letters, but no spaces or dots.
+    string wordExample = "Book";
+
     
     writeln(newline, "Vocabulary is an interface to human language.");
     writeln(newline, "The standartisation of words is called a Vocabulary");
